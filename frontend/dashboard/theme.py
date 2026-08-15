@@ -1,0 +1,15 @@
+BACKGROUND = "#FFF8FB"
+
+CARD = "#FFFFFF"
+
+PRIMARY = "#9FAFE5"      # Glaucous
+
+SECONDARY = "#FFD6E7"    # Baby Pink
+
+TEXT = "#4A4A4A"
+
+SUCCESS = "#A8E6CF"
+
+WARNING = "#FFC4C4"
+
+BORDER = "#E9E3F8"
